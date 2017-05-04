@@ -1,1 +1,3 @@
-A news-aggregator with koa and react
+# QAPI
+
+Query API 2 day project! Bam!
