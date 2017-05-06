@@ -7,6 +7,7 @@ Recommended editor is VS code, and here is how it is best set up:
 
 In your settings.json, edit to have the following line. 
     "editor.formatOnSave": false,
+
 In your keybindings.json 
     {
         "key": "meta+`",
