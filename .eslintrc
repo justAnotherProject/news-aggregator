@@ -16,11 +16,11 @@
     ],
     "react/jsx-indent": [
       1,
-      4
+      2
     ],
     "react/jsx-indent-props": [
       2,
-      4
+      2
     ],
     "react/jsx-filename-extension": [
       0

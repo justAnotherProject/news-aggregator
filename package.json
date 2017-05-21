@@ -1,13 +1,13 @@
 {
-  "name": "ecom-api",
+  "name": "news-aggregator",
   "version": "1.0.0",
-  "description": "ECommerce API.",
+  "description": "A news aggregator.",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
